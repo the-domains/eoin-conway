@@ -1,0 +1,28 @@
+name: Eoin Conway
+favicon: null
+layout_spectrum: 0.6735166504513472
+typography_spectrum: 0.2656316061038524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9534241056535393
+  lightness: 0.8248372874222696
+  saturation: 0.36799688544124365
+  rhythmicContrast: 0.6248422313947231
+purpose: []
